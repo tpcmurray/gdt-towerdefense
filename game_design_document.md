@@ -8,7 +8,7 @@
 
 ---
 
-## MVP
+## MVP (Minimum Viable Product: the smallest thing you can make to test your idea)
 - Phase 1
   - 1 tower
     - tower stats
