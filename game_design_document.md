@@ -1,7 +1,7 @@
-# Multiplayer Tower Defense Game - Game Design Document
+# Multiplayer Tower Defense Game _ Game Design Document
 
 ## 🎮 Game Overview
-- **Game Title:** [Your game title here]
+- **Game Title:** [YOuR gAmE TiTlE hErE]
 - **Game Genre:** Sci-Fi Cybersecurity Tower Defense
 - **Target Audience:** Everyone
 - **Game Summary:** A multiplayer tower defense game set inside a computer's circuit board, where players collaborate to defend against waves of malware, viruses, and cyber threats. Players build defensive programs and security measures to protect the system's core while managing computing resources and coordinating their defense strategy.
@@ -51,7 +51,7 @@
 - What types of towers (security programs) can players build?
   - Long range, low dmg
   - Short range, high dmg
-  - 
+  - high fire rate, medium range, low dmg
 
 - What resources do players manage?
   - Money, which is gained by defeating incoming swarms
@@ -187,4 +187,5 @@ Use this section to write down any ideas, concerns, or questions that come up du
 - [Your notes here]
 
 ## Future Design Plans
+## HynesTechnologies
 
