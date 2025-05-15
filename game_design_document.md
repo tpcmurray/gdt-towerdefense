@@ -1,7 +1,7 @@
-# Multiplayer Tower Defense Game - Game Design Document
+# Multiplayer Tower Defense Game _ Game Design Document
 
 ## 🎮 Game Overview
-- **Game Title:** [Your game title here]
+- **Game Title:** [YOuR gAmE TiTlE hErE]
 - **Game Genre:** Sci-Fi Cybersecurity Tower Defense
 - **Target Audience:** Everyone
 - **Game Summary:** A multiplayer tower defense game set inside a computer's circuit board, where players collaborate to defend against waves of malware, viruses, and cyber threats. Players build defensive programs and security measures to protect the system's core while managing computing resources and coordinating their defense strategy.
