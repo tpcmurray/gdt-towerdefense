@@ -51,7 +51,7 @@
 - What types of towers (security programs) can players build?
   - Long range, low dmg
   - Short range, high dmg
-  - 
+  - high fire rate, medium range, low dmg
 
 - What resources do players manage?
   - Money, which is gained by defeating incoming swarms
